@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f5wZiLxgggHIfU0mEWpo0dfX7Epbm2GJiczf4QGuWtk=",
+  "Source": "SalesService",
+  "BasePath": "_content/SalesService",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

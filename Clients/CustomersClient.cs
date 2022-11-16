@@ -1,5 +1,4 @@
-﻿using System.Text.Json;
-using SalesService.Models;
+﻿using SalesService.Models;
 using SalesService.Models.DTO;
 
 namespace SalesService.Clients

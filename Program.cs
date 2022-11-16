@@ -10,6 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddTransient<CustomersClient, CustomersClient>();
+builder.Services.AddTransient<ProductsClient, ProductsClient>();
 
 builder.Services.AddHttpClient("productsApi", client =>
 {
